@@ -1,4 +1,5 @@
 - 👋 Hey, I’m Unmesh Waghchoure
+- 👨‍🎓 Information Technology Undergrad
 - 👀 I’m interested in Cloud, Devops and AI
 - 🌱 I’m currently learning JS
 - 📫 Reach me at linkedin.com/in/unmeshwaghchoure 

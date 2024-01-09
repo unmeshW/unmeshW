@@ -1,7 +1,8 @@
-- 👋 Hey, I’m Unmesh Waghchoure
+- 👋 Hey, I'm Unmesh Waghchoure
 - 👨‍🎓 Information Technology Undergrad
-- 👀 I’m interested in Cloud, Devops and AI
-- 🌱 I’m currently learning Linux
+- 🐧 Redhat Certified (RHCSA)
+- 👀 Cloud and DevOps enthusiast
+- 🌱 I’m currently learning Docker
 - 📫 Reach me at linkedin.com/in/unmeshwaghchoure 
 - 📧 Email at unmeshwaghchoure5@gmail.com
 

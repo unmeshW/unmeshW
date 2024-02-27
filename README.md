@@ -2,7 +2,7 @@
 - 👨‍🎓 Information Technology Undergrad
 - 🐧 Redhat Certified (RHCSA)
 - 👀 Cloud and DevOps enthusiast
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Docker and Kubernetees
 - 📫 Reach me at linkedin.com/in/unmeshwaghchoure 
 - 📧 Email at unmeshwaghchoure5@gmail.com
 
